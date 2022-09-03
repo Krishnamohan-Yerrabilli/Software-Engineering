@@ -20,6 +20,6 @@
 
 - Algorithm Design
 
-## The core idea here is -> We went from
+## The core idea here is, We went from
 
-- High-level view of the system (Architectural design phase) <---------> LOW-level view of the system (Algorithm Design)
+- High-level view of the system (Architectural design phase) <---------> LOW-level view of the system (Algorithm Design phase)
