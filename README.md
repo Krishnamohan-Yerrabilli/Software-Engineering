@@ -2,7 +2,8 @@
 
 Here you can find my learnings on SE <br/>
 
-This repo is all about SE With Screenshots and diagrams, how it's implemented, and many more.
+This repo is all about SE With Screenshots and diagrams, what is it? 
+Why it's needed?, how it's implemented?, and many more...
 
 - Life Cycle models
 - Requirements Gathering
