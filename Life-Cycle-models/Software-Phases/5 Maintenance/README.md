@@ -27,10 +27,10 @@
 - Users might find out problems with the software</br>
   there are some situations where the app will crash</br>
   
-#### When this type of scenario occurs this bug</br>
-#### reports sends back to the developer then the dev 
-#### modify the code as per customer needs
-#### After successful development make sure 
+- When this type of scenario occurs this bug</br>
+  reports sends back to the developer then the dev </br>
+  modify the code as per customer needs</br>
+  After successful development make sure 
 
 ### Organisations perform 3 kinds of activities.
 
@@ -52,6 +52,7 @@ has been released
 ## (Regression Testing)
 
 - During maintenance every time you modify the code</br>
-  the code must be re-test to make sure it's not produced </br>
-  unexpected errors in the future and the defined changes</br>
-  work as expected
+  and it must be re-test to make sure it's not produced </br>
+  unexpected errors in the future and the evalute the  </br> 
+  defined changes work as expected</br>
+  
