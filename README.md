@@ -1,8 +1,8 @@
 # Software-Engineering
 
-Here you can find my learnings on SE <br/>
+Here you can find my learnings on SE 
 
-This repo is all about SE With Screenshots and diagrams, what is it? 
+This repo is all about SE With Screenshots and diagrams, what is it? <br/>
 Why it's needed?, how it's implemented?, and many more...
 
 - Life Cycle models
