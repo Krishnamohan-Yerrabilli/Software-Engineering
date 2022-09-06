@@ -24,6 +24,6 @@ How long shall I do it?
 - distributed system then agile is maybe not a good choice for you
   
 - In some cases, there are situations where you need to use 
-- waterfall model for some part and agile for another part 
+- waterfall model for some part and agile for another part
 
 - Choosing the right model is the fundamental importance of any software design
