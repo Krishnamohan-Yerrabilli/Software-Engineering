@@ -3,7 +3,7 @@
 - Its Aims to check whether the system meets </br>
   its specifications which are given by customer </br>
   and fulfill its intended purpose.
-
+ 
 ## Verification
 
 - This simply means did we build the exact system </br>
