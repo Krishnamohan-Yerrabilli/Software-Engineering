@@ -3,12 +3,13 @@
 ## Requirements Engineering
  
 ![image](https://i.ytimg.com/vi/oXPAJlIZvsI/hqdefault.jpg)
+ 
+#### It is the process of organize the needs of stakeholders that are going to be solved by the software
 
 </div>
 
 
-- It is the process of organize the needs of </br>
-stakeholders that are going to be solved by the software
+
 
 
 ## Why this phase is so important?
