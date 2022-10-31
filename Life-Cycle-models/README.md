@@ -1,6 +1,13 @@
+<div align=center>
+
 # What is a software process?
 
-To design efficient software we need to follow a specific model by going through, it leads to better results
+<img src="https://user-images.githubusercontent.com/58173938/198922736-4e832998-f32f-4f8c-9195-8eccc4c4711d.png" alt="kuber" width="450" height="350">
+
+</div>
+
+
+### To design efficient software we need to follow a specific model by going through, it leads to better results
   
 - It's a Sequence of decisions that you make, going to 
 - be a part of the history of your project
