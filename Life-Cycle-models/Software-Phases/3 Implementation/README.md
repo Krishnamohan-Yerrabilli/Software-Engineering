@@ -33,5 +33,7 @@
 
 - It's important for software when we want to take internal</br> standards of an organization or external organizations
 
+- The process of adopting and integrating a software application into a business workflow
+ 
 - examples: Internal organization (Coding standards) or</br> (Naming standards)
 
