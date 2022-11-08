@@ -1,4 +1,12 @@
-## Implementation
+<div align="center">
+
+## IMPLEMENTATION
+
+![image](https://whatfix.com/blog/wp-content/uploads/2021/08/Wider-Blog-Graphics.jpg)
+
+*image credits: whatfix*
+</div>
+
 
 - Here we take the design of the system </br>
   and creating an actual software system </br>
