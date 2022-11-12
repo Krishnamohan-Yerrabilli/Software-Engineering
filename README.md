@@ -21,4 +21,4 @@ Why it's needed?, how it's implemented?, and many more...
 
 ## Updation
 
-I will renovate this one by one day by day, you can fork this repo if you want, I hope it will help someone, have a great day.
+I will renovate time to time, you can fork this repo if you want, I hope it will help someone, have a great day.
