@@ -46,5 +46,5 @@
 
 ### Requirements Management
 
-- Which accounts changes to requirements during lifetime of the project
+- Which accounts changes to requirements during lifetime of the project.
 
