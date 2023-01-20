@@ -9,7 +9,7 @@
 
 ### To design efficient software we need to follow a specific model by going through, it leads to better results
   
-- It's a Sequence of decisions that you make, going to 
+- It's a Sequence of decisions that you make,and that's going to 
 - be a part of the history of your project
 - that you are going to be built
 - and eventually used by the people
